@@ -1,0 +1,11 @@
+{
+  "name": "test-1",
+  "version": "1.0.0",
+  "description": "Diese Demo-Anwendung enthält eine einfache Startseite mit Links zur Hardware-\r und Softwareverwaltung sowie einer Kontaktseite.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Caspar",
+  "license": "ISC"
+}
