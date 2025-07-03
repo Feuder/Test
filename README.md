@@ -3,7 +3,7 @@
 Diese Demo-Anwendung enthält eine einfache Startseite mit Links zur Hardware-
 und Softwareverwaltung sowie einer Kontaktseite.
 
-* `index.html` – Startseite mit drei Buttons
+* `index.html` – Startseite mit drei Buttons und einigen Beispielstatistiken
 * `hardware.html` – bisherige Hardware-Verwaltung
 * `software.html` – Platzhalter für Software-Verwaltung
 * `kontakt.html` – Kontaktinformationen
