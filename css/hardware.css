@@ -1,0 +1,8 @@
+/* Styles spezifisch für die Hardware-Seite */
+.hardware-form button {
+    background-color: #28a745;
+}
+
+.hardware-form button:hover {
+    background-color: #1e7e34;
+}
