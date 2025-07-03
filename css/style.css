@@ -12,6 +12,20 @@ header {
     text-align: center;
 }
 
+.quick-links {
+    margin-top: 0.5rem;
+}
+
+.quick-links a {
+    color: #fff;
+    margin: 0 0.5rem;
+    text-decoration: none;
+}
+
+.quick-links a:hover {
+    text-decoration: underline;
+}
+
 .hardware-form,
 .hardware-list {
     max-width: 800px;
@@ -84,4 +98,21 @@ button:hover {
 
 .nav-button:hover {
     background-color: #0056b3;
+}
+
+/* Zusätzliche Bereiche auf der Startseite */
+.search,
+.news,
+.alerts {
+    max-width: 600px;
+    margin: 2rem auto;
+    background: #fff;
+    padding: 1rem;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.news ul {
+    list-style: disc;
+    margin-left: 1.5rem;
 }
