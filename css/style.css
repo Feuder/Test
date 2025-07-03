@@ -98,3 +98,20 @@ button:hover {
     list-style: disc;
     margin-left: 1.5rem;
 }
+
+/* Zusätzliche Bereiche auf der Startseite */
+.search,
+.news,
+.alerts {
+    max-width: 600px;
+    margin: 2rem auto;
+    background: #fff;
+    padding: 1rem;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.news ul {
+    list-style: disc;
+    margin-left: 1.5rem;
+}
