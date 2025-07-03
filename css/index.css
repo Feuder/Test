@@ -39,3 +39,9 @@
 .stat span {
     color: #555;
 }
+
+.news,
+.alerts,
+.search {
+    margin-top: 2rem;
+}
