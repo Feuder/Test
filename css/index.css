@@ -2,3 +2,40 @@
 .start-container {
     margin-top: 3rem;
 }
+
+.hero {
+    background-color: #007bff;
+    color: white;
+    padding: 2rem 0;
+    text-align: center;
+}
+
+.hero p {
+    max-width: 600px;
+    margin: 0 auto;
+    font-size: 1.2rem;
+}
+
+.stats {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.stat {
+    background: #fff;
+    padding: 1rem 2rem;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.stat strong {
+    display: block;
+    font-size: 2rem;
+    color: #007bff;
+}
+
+.stat span {
+    color: #555;
+}
